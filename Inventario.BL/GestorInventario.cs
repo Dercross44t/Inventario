@@ -9,7 +9,12 @@
             listaProductos = new List<MODEL.Producto>() { 
                 new MODEL.Producto { Id = 1, Nombre = "Laptop", Categoria = "Tecnología", Precio = 999.99, Stock = 10 },
                 new MODEL.Producto { Id = 2, Nombre = "Smartphone", Categoria = "Papelería", Precio = 499.99, Stock = 20 },
-
+                new MODEL.Producto { Id = 2, Nombre = "Smartphone", Categoria = "Papelería", Precio = 499.99, Stock = 20 },
+                new MODEL.Producto { Id = 1, Nombre = "Laptop", Categoria = "Tecnología", Precio = 999.99, Stock = 10 },
+                new MODEL.Producto { Id = 1, Nombre = "Laptop", Categoria = "Tecnología", Precio = 999.99, Stock = 10 },
+                new MODEL.Producto { Id = 2, Nombre = "Smartphone", Categoria = "Papelería", Precio = 499.99, Stock = 20 },
+                new MODEL.Producto { Id = 2, Nombre = "Smartphone", Categoria = "Papelería", Precio = 499.99, Stock = 20 },
+                new MODEL.Producto { Id = 1, Nombre = "Laptop", Categoria = "Tecnología", Precio = 999.99, Stock = 10 },
             };
         }
 
